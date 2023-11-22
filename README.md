@@ -14,5 +14,4 @@ Customize email settings in settings.py
 Visit http://127.0.0.1:8000/contact to explore the contact form.  
 **#Contributions Welcome! 🎉**  
 Feel free to contribute and make this project even better. Open issues, submit pull requests, and let's build something awesome together!  
-**License:**  
-MIT License  
+  
